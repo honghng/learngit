@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 zhanfangyong: ff 2018-04-25
 ff test2
 Git dev stash: 2018-04-25
+/usr/bin
